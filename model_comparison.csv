@@ -1,0 +1,6 @@
+Metric,Custom CNN,Transfer Learning
+Test Accuracy,0.8551,0.9710
+Test Loss,0.3495,0.1179
+Total Parameters,"12,938,948","2,422,468"
+Trainable Parameters,"12,938,948","164,484"
+Architecture,3 Conv Blocks,MobileNetV2 + Custom Head
