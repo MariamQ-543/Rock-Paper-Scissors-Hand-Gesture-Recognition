@@ -28,7 +28,7 @@ Transfer learning improved test accuracy by **11.6%** compared to training a CNN
 ```
 RPS-AICoursework/
 │
-├── RPS_Hand_Gesture_Recognition.ipynb
+├── RPS_AICoursework.ipynb
 ├── rps_game.py
 ├── README.md
 │
@@ -90,7 +90,7 @@ pip install scikit-learn==1.3.0
 
 1. **Open Google Colab**
    - Go to https://colab.research.google.com/
-   - Upload `RPS_Hand_Gesture_Recognition.ipynb`
+   - Upload `RPS_AICoursework.ipynb`
 
 2. **Mount Google Drive**
 ```python
